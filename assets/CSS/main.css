@@ -1,0 +1,26 @@
+p{
+    color: #990000;
+}
+
+#inferior-p{
+     color: #95df1d;
+    }
+
+#azulgrande{
+    color: #1951ca;
+    font-size: larger;
+    font-style: italic;
+
+}
+
+.todoslosp{
+    color: #03f524;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    word-spacing: 5pt;
+    background-color: black;
+    border: cornsilk;
+}
+.hide{
+    display: none;
+}
